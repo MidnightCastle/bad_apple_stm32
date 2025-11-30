@@ -1,0 +1,12 @@
+# Bad Apple STM32 - Media Processing Tools
+# Install with: pip install -r requirements.txt
+
+# Video processing
+opencv-python>=4.5.0
+numpy>=1.20.0
+Pillow>=8.0.0
+
+# Note: FFmpeg must be installed separately
+# - Windows: Download from https://ffmpeg.org/download.html
+# - macOS:   brew install ffmpeg
+# - Linux:   sudo apt install ffmpeg

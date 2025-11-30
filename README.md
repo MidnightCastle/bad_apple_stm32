@@ -190,7 +190,6 @@ bad-apple-stm32/
 |   |-- process_all.py          # Full pipeline
 |   +-- analyze_file.py         # File validator
 +-- README.md
-+-- badapple.bin
 ```
 
 ## Performance

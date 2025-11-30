@@ -1,0 +1,60 @@
+# Build outputs
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+
+# IDE files - STM32CubeIDE
+.settings/
+.cproject
+.project
+*.launch
+.mxproject
+
+# IDE files - VS Code
+.vscode/
+
+# IDE files - Keil
+*.uvprojx
+*.uvoptx
+*.uvguix.*
+Objects/
+Listings/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Processing outputs
+output/
+frames/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup and temp files
+*~
+*.bak
+*.swp
+*.swo
+\#*\#
+
+# Video source (not included in repo)
+BadApple.mp4
+*.mp4
+*.avi
+*.mkv
+*.webm
